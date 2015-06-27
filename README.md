@@ -1,1 +1,1 @@
-# datasciencecoursera
+# for a class
