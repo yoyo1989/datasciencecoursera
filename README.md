@@ -1,1 +1,1 @@
-# for a class
+# accounts set up
